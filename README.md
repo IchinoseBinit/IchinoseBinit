@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ichinosebinit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Binit Koirala" height="30" width="40" /></a>
-<a href="https://binitkoirala.com.np/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsvgsilh.com%2Fimage%2F1873373.html&psig=AOvVaw267bfjDyUn2dTL8AELbweh&ust=1644389750676000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjd56nD7_UCFQAAAAAdAAAAABAD" alt="Binit Koirala" height="30" width="40" /></a>
+<a href="https://binitkoirala.com.np/" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="Binit Koirala" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IchinoseBinit&show_icons=true&locale=en&theme=onedark&count_private=true" alt="Binit Koirala" /></p>
