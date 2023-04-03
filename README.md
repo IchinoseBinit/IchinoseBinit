@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Binit Koirala
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter/IOS
 - 💬 Ask me about Flutter
 - 📫 How to reach me: <a href="https://binitkoirala.com.np/" target="blank">https://binitkoirala.com.np/</a>
 
